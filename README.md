@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-<img src=https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif>
+<img src= "https://camo.githubusercontent.com/0a0dc4ec78739f9c62b556ee154065af0de7b337110cfd95587770c4b3e269c7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966">
 
 👨‍💻 Passionate 2nd-Year Computer Science and Engineering Student | Aspiring Full-Stack Developer 🌱<br>
 A dedicated student with a strong foundation in C, C++, and Python. Currently focused on enhancing my problem-solving skills with Java through a 100-day coding challenge on **HackerRank** and **Leetcode**.<br>
@@ -31,15 +31,6 @@ I am particularly interested in building scalable applications and exploring how
 
 ---
 
-# 🌱 Current Focus:
-- Improving my problem-solving skills with **Leetcode** and **HackerRank** challenges.
-- Building **full-stack applications** using **Node.js**, **React**, and **MongoDB**.
-- Learning new technologies and frameworks to build **robust applications**.
-
----
-
 [![](https://visitcount.itsvg.in/api?id=shamrethasri&icon=1&color=0)](https://visitcount.itsvg.in)
-
----
 
 </div>
