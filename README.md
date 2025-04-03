@@ -1,9 +1,8 @@
-
 <div align="center">
 
 # 💫 About Me:
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F920704717572102110%2F&psig=AOvVaw2hqvfHjMqtdGuHAFduMDZN&ust=1743784513864000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCCzNilvIwDFQAAAAAdAAAAABAJ">
+<img src="https://i.pinimg.com/originals/00/4c/82/004c82e87202990b47d5d1299ffbffdf.gif" width="980" height="250">
 
 👨‍💻 Passionate 2nd-Year Computer Science and Engineering Student | Aspiring Full-Stack Developer 🌱<br>
 A dedicated student with a strong foundation in C, C++, and Python. Currently focused on enhancing my problem-solving skills with Java through a 100-day coding challenge on **HackerRank** and **Leetcode**.<br>
